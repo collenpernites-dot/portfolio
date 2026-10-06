@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 480">
+  <rect width="400" height="480" fill="#eceef2"/>
+  <circle cx="200" cy="170" r="70" fill="#d5dae3"/>
+  <ellipse cx="200" cy="430" rx="130" ry="110" fill="#d5dae3"/>
+  <text x="200" y="470" text-anchor="middle" font-family="Arial" font-size="18" fill="#525e73">Collen's photo</text>
+</svg>
